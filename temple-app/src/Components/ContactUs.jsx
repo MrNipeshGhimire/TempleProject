@@ -15,7 +15,7 @@ const ContactUs = () => {
         <div>
           <h2 className="text-lg font-bold dark:text-gray-100">Contact Us</h2>
           <p className="max-w-sm mt-4 mb-4 dark:text-gray-400">
-            Have something to say? We are here to help. Fill up the form, send an email, or call us.
+            Have something to say? We are here to help. Fill klkup the form, send an email, or call us.
           </p>
           <div className="flex items-center mt-8 space-x-2 text-dark-600 dark:text-gray-400">
             <svg
